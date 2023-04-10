@@ -13,4 +13,4 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 ## Feito por:
 
-### Joana Santos
+### Matheus Rocha
